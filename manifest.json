@@ -1,0 +1,13 @@
+{
+  "short_name": "Archil's Page",
+  "name": "Archil Lelashvili's Personal Page",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "512x512 192x192 64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
