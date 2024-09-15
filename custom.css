@@ -1,27 +1,17 @@
+/* 
+ * Since the body tag is part of index.html and therefore 
+ * outside React render scope, I am using classes to implement 
+ * background styling.
+ */
+
 .light {
   background-color: #f8f9fa;
   color: #343a40;
-
-  footer {
-    background-color: #727271;
-    color: #f8f9fa;
-  }
-
 }
 
 .dark {
   background-color: #343a40;
   color: #f8f9fa;
-
-  footer {
-    background-color: #242a20;
-    color: #f8f9fa;
-  }
-
-  a:visited {
-    color: #2f80ff;
-  }
-
 }
 
 body {
